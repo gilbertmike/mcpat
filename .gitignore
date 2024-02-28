@@ -30,7 +30,3 @@
 # McPAT custom
 mcpat
 obj_opt/
-
-# McPAT extensions
-crossbar
-interconnect
